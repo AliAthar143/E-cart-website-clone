@@ -1,2 +1,2 @@
-# E-cart-website-clone
+# Flipkart.com-website-clone
 Clone Project
