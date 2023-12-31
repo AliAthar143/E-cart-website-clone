@@ -1,2 +1,1 @@
-# Flipkart.com-website-clone
-(non-responsive)
+# Flipkart.com-website-clone (non-responsive)
